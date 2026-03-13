@@ -13,5 +13,10 @@ This project focuses on detecting cyber attacks in IoT networks using Deep Learn
 * `config/`: Contains the `final_features.gz` list for feature consistency.
 * `scripts/`: Contains the `analyst.py` for data processing and inference.
 
+## 🛠️ Installation & Setup
+To run this project, first clone the repository and install the dependencies:
+```bash
+pip install -r requirements.txt
+
 ---
 *Note: Explainable AI (XAI) integration using SHAP is currently in progress.*
